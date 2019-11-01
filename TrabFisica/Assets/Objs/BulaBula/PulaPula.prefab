@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 617365463654077735}
   - component: {fileID: 7530280905823514134}
   - component: {fileID: 3495865862509690720}
+  - component: {fileID: 8821044993253833744}
   - component: {fileID: 780891856642994835}
   m_Layer: 0
   m_Name: PulaPula
@@ -78,6 +79,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!114 &8821044993253833744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7545980099150269251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 717b42601f9aaa5418fc7dea236e715e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!65 &780891856642994835
 BoxCollider:
   m_ObjectHideFlags: 0
